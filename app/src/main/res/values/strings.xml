@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Girl MVP</string>
+    <!-- description images/imagebutton -->
+    <string name="des_image">This is description image</string>
+</resources>
